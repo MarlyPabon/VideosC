@@ -39,6 +39,7 @@ int main() {
     printf("%i", cont3);
     printf("\n");
 
+
     if(cont1<cont2 && cont1<cont3){
         printf("Hay menor cantidad de triangulos equilateros. ");
     }else{
