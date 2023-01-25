@@ -28,7 +28,7 @@ int main (){
 
     printf("Vector resultante \n");
     for(i=0; i<4; i++){
-        printf("%i -", vectSuma[i]);
+        printf("%i - ", vectSuma[i]);
     }
 
 
