@@ -21,7 +21,7 @@ int main(){
         scanf(" %c", &opcion);
 
 
-    }while(opcion=='s');
+    }while(opcion=='s');//si s entra nuevamente al ciclo
 
     getch();
     return 0;
